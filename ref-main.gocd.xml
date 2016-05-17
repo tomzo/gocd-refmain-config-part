@@ -7,7 +7,7 @@
 	<!-- material repo is the same as partial config repo  -->
         <git url="https://github.com/tomzo/gocd-refmain-config-part.git" />
 	<!-- dependency on pipeline which is in cruise-config.xml -->
-	<pipeline pipelineName="pipe-in-main" stageName="test" materialName="main" />
+	<pipeline pipelineName="up42" stageName="test" materialName="main" />
       </materials>
       <stage name="test">
         <jobs>
