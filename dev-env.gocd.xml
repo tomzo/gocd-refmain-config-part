@@ -11,6 +11,9 @@
           <value>variable</value>
         </variable>
       </environmentvariables>
+      <agents>
+        <physical uuid="0bb5c5cf-fbb0-4653-a1f9-fe070286b29e" />
+      </agents>
     </environment>
   </environments>
 </cruise>
